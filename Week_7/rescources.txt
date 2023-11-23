@@ -1,0 +1,20 @@
+Music generation:
+https://www.tensorflow.org/tutorials/audio/music_generation
+See also: Deeplearning.ai Deep Learning Specialization, Course 5: Sequence Models Week 1 Assignment 3
+
+Sentiment classification on IMDB reviews with RNN and pertained word vectors:
+https://www.tensorflow.org/text/tutorials/text_classification_rnn
+https://keras.io/examples/nlp/pretrained_word_embeddings/
+Benchmarks: https://paperswithcode.com/sota/sentiment-analysis-on-imdb
+https://github.com/subhalingamd/rnn-movie-review-sentiment-analysis/blob/master/Model.ipynb
+
+Trigger word detection:
+https://www.deeplearning.ai/courses/deep-learning-specialization/
+Deeplearning.ai Deep Learning Specialization, Course 5: Sequence Models Week 3 Assignment 2
+
+
+Generally:
+https://paperswithcode.com/sota
+
+For pre-trained models and datasets:
+https://huggingface.co
